@@ -1,0 +1,20 @@
+@media (min-width: 768px) and (max-width: 992px) {
+    .header .header-fixed .header-links a#empty-order {
+        margin-top: 0px;
+    }
+    .header .header-burger .img-carousel > img {
+        height: 350px;
+    }
+    .header .header-burger .img-carousel .caption .caption-head {
+        font-size: 10px;
+    }
+    .header .header-burger .img-carousel .caption p:first-of-type {
+        font-size: 50px;
+    }
+    .header .header-burger .img-carousel .caption p:last-of-type {
+        font-size: 40px;
+    }
+    .section3 .tasty {
+        padding: 0 50px;
+    }
+}

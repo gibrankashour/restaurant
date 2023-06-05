@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+    .header .header-burger .img-carousel > img {
+        height: 480px;
+    }
+    .section3 .container .our-burger {
+        order: 0!important;
+    }
+    .section3 .container .active {
+        flex-basis: 380px; 
+    }
+    .section3 .tasty {
+        padding: 0 100px;
+    }
+}
